@@ -1,11 +1,14 @@
 # Digits_Dataset
-Digits Dataset adalah kumpulan data yang dirancang untuk tugas pengenalan angka tulisan tangan. Dataset ini terdiri dari gambar angka dari 0 hingga 9 dalam format grid 8x8 piksel, di mana setiap piksel memiliki intensitas nilai antara 0 hingga 16. 
+Digits Dataset adalah kumpulan data yang dirancang untuk tugas pengenalan angka tulisan tangan. Dataset ini terdiri dari gambar angka dari 0 hingga 9 dalam format grid 8x8 piksel, di mana setiap piksel memiliki intensitas nilai antara 0 hingga 16. Dataset ini populer untuk pembelajaran dan eksperimen dalam bidang machine learning serta computer vision karena sifatnya yang sederhana namun mencakup cukup banyak variasi.
+
+## Model Machine Learning
+Logistic Regression
 
 ## Tools used
--Numpy
--Pandas
--Matplotlib
--Scikit-learn
+Numpy
+Pandas
+Matplotlib
+Scikit-learn
 
 ## Atribut data
 data: Matriks fitur berukuran (1797, 64), di mana setiap baris mewakili satu gambar.
