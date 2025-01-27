@@ -7,9 +7,12 @@ Digits Dataset adalah kumpulan data yang dirancang untuk tugas pengenalan angka 
 -Matplotlib
 -Scikit-learn
 
-## atribut data
+## Atribut data
 data: Matriks fitur berukuran (1797, 64), di mana setiap baris mewakili satu gambar.
+
 target: Array label berukuran (1797,), berisi angka 0 hingga 9.
+
 images: Gambar dalam bentuk array (1797, 8, 8), yang dapat divisualisasikan.
+
 DESCR: Deskripsi lengkap dataset.
 
